@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tej0897
 - 👀 I’m interested in coding, learning things and travelling.
 - 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java. SpringBoot... things like these
+- 💞️ I’m looking to collaborate on Java, SpringBoot... things like these.
 - 📫 How to reach me tej0897@gmail.com
 
 <!---
