@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @tej0897
-- 👀 I’m interested in coding, learning things and travelling.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java, SpringBoot... things like these.
-- 📫 How to reach me tej0897@gmail.com
+Well Hello there!!
 
-<!---
-tej0897/tej0897 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Tejas, you can call me Tej. I love to code and would love to master Full Stack Development using Java8, Angular, SpringBoot and MySql.
+Plan is to make as many projects as possible and figure out the best way to code things.
+
+My Profile Repo is messed up. 
+
+Goals:
+  1. Contribute everyday and make my profile look green. #GoGreen!
+  2. Sort Repo so it would be easily accessable.
+
+You can contact me via tej0897@gamil.com
+
+Bye for now!!!
