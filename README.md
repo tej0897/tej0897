@@ -1,1 +1,1 @@
-Java developer who enjoys coding and solving data-structure problems, running mostly on music… and occasional questionable logic.
+I write Java code so wild that even the Garbage Collector refuses to clean it.
